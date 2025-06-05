@@ -1,4 +1,4 @@
-# Naresh-Ai-voice-assistant
+# AI Voice Assistant
 This project aims to develop an AI-powered voice assistant that can 
 understand spoken commands and perform a variety of tasks, such as answering 
 questions, managing schedules, setting reminders, playing music, and 
